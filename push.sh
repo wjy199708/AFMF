@@ -1,6 +1,6 @@
 git add .
-echo "add success!"
+echo "====add success!==="
 git commit -m 'change'
-echo "commit success !"
+echo "===commit success !==="
 git push origin main
-echo "push success !"
+echo "===push success !==="
