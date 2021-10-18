@@ -1,5 +1,6 @@
 # Anchor-free 3D Object Detection using Multimodal Fusion
 
+### Overall structure diagram of the method
 <img src='./figs/figure2.jpg' width='600'  />
 
 ### Method of ablation experiment results
