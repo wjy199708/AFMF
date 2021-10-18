@@ -2,6 +2,7 @@
 
 <img src='./figs/figure2.jpg' width='600'  />
 
+### Method of ablation experiment results
 | Method   |         |     |     |     | Modality |   | 3D Detection(Car) |       |       | Metric |
 |----------|---------|-----|-----|-----|----------|---|-------------------|-------|-------|--------|
 | Baseline | BEV_Res | MMF | k=5 | k=1 | C        | L | Easy              | Mod   | Hard  | IoU    |
